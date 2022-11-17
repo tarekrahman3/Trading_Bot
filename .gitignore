@@ -1,4 +1,4 @@
-mysession.session
-application_logger.log
-config.ini
-src/__pycache__
+**.session
+**.log
+**.ini
+**__pycache__
